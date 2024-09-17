@@ -61,8 +61,6 @@ The following environment variables can be changed to configure the application 
 - `DATABASE_URL`: The database URL to connect to (default: `sqlite:///./test.db`).
 
 ## If you prefer to test it with Postman or Curl here are endpoints:
-## Endpoints
-
 ### Authentication
 - `POST /token`: Obtain a JWT token.
 
